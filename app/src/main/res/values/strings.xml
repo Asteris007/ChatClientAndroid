@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Chat App</string>
+    <string name="title_activity_client">Client Activity</string>
+    <string name="edit_text_message_hint">Type your message here</string>
+    <string name="buttonSend">Send</string>
+    <string name="chat_text_view">No messages yet</string>
+    <string name="socket_host">172.16.1.125</string>
+    <string name="socket_port">2727</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
